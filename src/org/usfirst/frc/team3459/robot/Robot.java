@@ -18,6 +18,7 @@ public class Robot extends IterativeRobot {
     	System.out.println("--------------------");
     	System.out.println("PT 2016-2017 mentors");
      	System.out.println("--------------------"); 	
+     	System.out.println("Alan Smith");
     }
         
 }
